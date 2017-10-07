@@ -13,10 +13,11 @@
 DONATION BITCOIN : 1GJeX37RvzxmZ7p35h1qvECn7LQeLKfTQp
 DONATION PAYPAL : ayoubelaich@gmail.com
 
+THANK'S FOR SUPPORT <3 <3
+
 
   [+] AUTOR:        amiralkizaru
   [+] EMAIL:        ayoubelaich@gmail.com
-  [+] Twitter:      https://twitter.com/googleinurl
   [+] Facebook:     https://fb.com/Silencer.fan
   [+] GIT:          https://github.com/amiralkizaru
 
